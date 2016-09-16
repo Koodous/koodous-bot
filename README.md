@@ -20,12 +20,12 @@ Bot Commands
     <tr>
       <td>search</td>
       <td>Search APK</td>
-      <td>/start Whatsapp</td>
+      <td>/search Whatsapp</td>
     </tr>
     <tr>
       <td>search</td>
       <td>Search APK with commands</td>
-      <td>/start package_name:com.whatsapp</td>
+      <td>/search package_name:com.whatsapp</td>
     </tr>
   </tbody>
 </table>
